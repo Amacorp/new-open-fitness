@@ -55,5 +55,5 @@ I welcome any technical collaboration, consulting opportunities, or developer pa
 
 ## 📬 Contact & Demos
 
-*   **Project Demo Page:** [https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME)
-*   **Developer LinkedIn:** [Your LinkedIn Profile Link]
+*   **Project Demo Page:** [https://github.com/Amacorp/new-open-fitness/](https://github.com/Amacorp/new-open-fitness/)
+*   **Developer LinkedIn:** [https://www.linkedin.com/in/m-gakhramanian/]
