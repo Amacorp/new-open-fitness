@@ -65,4 +65,4 @@ I welcome any technical collaboration, consulting opportunities, or developer pa
 
 ## 📬 Contact & Demos
 
-*   **Developer LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/m-gakhramanian/)]
+*   **Developer LinkedIn:** [[https://www.linkedin.com/in/m-gakhramanian/](https://www.linkedin.com/in/m-gakhramanian/)]
