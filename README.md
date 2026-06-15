@@ -6,6 +6,16 @@ This repository hosts the web infrastructure and project brief for Open Fitness.
 
 ---
 
+## 📥 Download & Installation
+
+You can download and test the latest functional MVP directly from the GitHub Releases page:
+
+👉 **[Download Open Fitness APK (Latest Release)](https://github.com/Amacorp/new-open-fitness/releases)**
+
+> **Note:** Since this is an MVP build signed with a developer certificate, you may need to allow installation from unknown sources on your Android device to install the APK.
+
+---
+
 ## 🚀 Key Features
 
 ### 1. Real-Time Body Pose Detection
@@ -55,5 +65,4 @@ I welcome any technical collaboration, consulting opportunities, or developer pa
 
 ## 📬 Contact & Demos
 
-*   **Project Demo Page:** [https://github.com/Amacorp/new-open-fitness/](https://github.com/Amacorp/new-open-fitness/)
-*   **Developer LinkedIn:** [https://www.linkedin.com/in/m-gakhramanian/]
+*   **Developer LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/m-gakhramanian/)]
