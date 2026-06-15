@@ -22,7 +22,6 @@ jobs:
       - name: Upload to Firebase App Distribution
         uses: w9jds/firebase-action@master
         with:
-          args: appdistribution:distribute $(ls *.apk | head -n 1) --app "1:977855311843:android:56f4c4446e9524009abad6
-"
+          args: appdistribution:distribute $(ls *.apk | head -n 1) --app "1:977855311843:android:56f4c4446e9524009abad6"
         env:
           GCP_SA_KEY: ${{ secrets.CREDENTIAL_FILE_CONTENT }}
